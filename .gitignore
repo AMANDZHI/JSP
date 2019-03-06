@@ -6,6 +6,5 @@ out/
 *.json
 src/resources/*.properties
 libs/
-*.md
 exportData/
 server/target/
